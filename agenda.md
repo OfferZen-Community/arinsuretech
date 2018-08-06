@@ -1,4 +1,4 @@
-# Agenda
+# How Make Days work
 
 ## Location
 
