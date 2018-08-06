@@ -1,4 +1,4 @@
-# Make Day Details
+# Agenda
 
 ## Location
 
@@ -14,18 +14,21 @@
 
 <b>Parking:</b> The parking is across the road from OPEN, and we will have 18 parking spots for the day, so one for every attendee if needed.
 
-## Agenda
+## Timeline
 
 | Time          | Activity    |
 |---------------|-------------|
-| 8h00  - 8h30  | Breakfast Meet and Greet |
-| 8h30  - 8h45  | Welcome and Introductions |
+| 8h00  - 8h30  | Breakfast meet and greet |
+| 8h30  - 8h45  | Intro to Make |
 | 8h45  - 9h00  | Intro to Unity AR and Root Insurance |
-| 9h00  - 9h30 | Break and teaming up |
-| 9h30 - 12h30 | Play with Sphero |
-| 12h30 - 13h00 | Lunch |
-| 13h00 - 16h30 | Connect Sphero to IoT cloud |
-| 16h30 - 18h00 | Group discussion about learning & drinks|
+| 9h00  - 9h15  | Introduce yourself! |
+| 9h15  - 10h15 | Guided group build session |
+| 10h15 - 10h45 | Teaming up and brainstorming |
+| 10h45 - 12h15 | Make, play and learn - session 1 |
+| 12h15 - 12h30 | Stand-up |
+| 12h30 - 13h00  | Lunch |
+| 10h45 - 12h15 | Make, play and learn - session 2 |
+| 16h30 - 18h00 | Drinks & group discussion about learning|
 
 
 ## Purpose of the day
