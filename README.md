@@ -1,10 +1,8 @@
 # Build an augmented reality app on Root Insurance
 
-## Welcome
+## Hello!
 
-We're building an augmented reality app on [Root insurance](http://root.co.za/insurance/)!(https://make.offerzen.com/course/root-insurance-augmented-reality).
-
-<b>The aim of the Make Day is to explore and learn new things, and you don't need to achieve specific goals.</b> The structure caters for varying levels of experience and different people will learn different things by playing with the same tools.
+We're excited to have you join this course - we'll be building an augmented reality app on [Root insurance](http://root.co.za/insurance/)! The aim of Make Days is to explore and learn new things, and you don't need to achieve specific goals. The structure caters for varying levels of experience and different people will learn different things by playing with the same tools.
 
 ## Preparing for the Make Day
 
