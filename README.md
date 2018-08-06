@@ -20,4 +20,4 @@ Makers that arrive well prepared get the most out of their experience. Before yo
 - [Set up Root](https://github.com/OfferZen-Make/arinsuretech-activity-root-setup) - *15 minutes*
 - [Get started with Unity](https://github.com/OfferZen-Make/arinsuretech-activity-unity-setup) - *1 hour*
 
-*Know somebody who would enjoy this course? Tell your friends to [apply here]*
+*Know somebody who would enjoy this course? Tell your friends to [apply here](https://make.offerzen.com/course/root-insurance-augmented-reality)*
