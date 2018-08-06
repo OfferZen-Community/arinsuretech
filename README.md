@@ -13,7 +13,7 @@ Makers that arrive well prepared get the most out of their experience. Before yo
 ### Getting started
 
 - [ ] Say hi on [Slack](https://offerzen-make.slack.com/)
-- [ ] Check the [agenda and location](agenda.md)
+- [ ] Learn about the [how, where and why](agenda.md) of Make Days
 - [ ] Complete prep activities and check out the further reading and info
 
 ### Prep activities
