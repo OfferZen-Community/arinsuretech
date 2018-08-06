@@ -27,7 +27,7 @@
 | 10h45 - 12h15 | Make, play and learn - session 1 |
 | 12h15 - 12h30 | Stand-up |
 | 12h30 - 13h00  | Lunch |
-| 10h45 - 12h15 | Make, play and learn - session 2 |
+| 13h00 - 16h30 | Make, play and learn - session 2 |
 | 16h30 - 18h00 | Drinks & group discussion about learning|
 
 
