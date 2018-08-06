@@ -8,7 +8,7 @@ The aim of Make Days is to explore and learn new things, and you don't need to a
 
 ## Preparing for the Make Day
 
-Before you attend your Make Day, there are a couple of activities to complete. Makers that arrive well prepared get the most out of their Make Days.
+Makers that arrive well prepared get the most out of their experience. Before you attend your Make Day, there are a couple of activities to complete.
 
 ### Getting started
 
@@ -18,6 +18,6 @@ Before you attend your Make Day, there are a couple of activities to complete. M
 
 ### Prep activities
 - [Set up Root](https://github.com/OfferZen-Make/arinsuretech-activity-root-setup) - *15 minutes*
-- [Set up Unity](https://github.com/OfferZen-Make/arinsuretech-activity-unity-setup) - *1 hour*
+- [Get started with Unity](https://github.com/OfferZen-Make/arinsuretech-activity-unity-setup) - *1 hour*
 
 *Know somebody who would enjoy this course? Tell your friends to [apply here]*
