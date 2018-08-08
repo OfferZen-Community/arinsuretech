@@ -21,3 +21,9 @@ Makers that arrive well prepared get the most out of their experience. Before yo
 - [Get started with Unity](https://github.com/OfferZen-Make/arinsuretech-activity-unity-setup) - *1 hour*
 
 *Know somebody who would enjoy this course? Tell your friends to [apply here](https://make.offerzen.com/course/root-insurance-augmented-reality)*
+
+### Useful vuforia resources
+
+- [Ground plane](https://assetstore.unity.com/packages/templates/packs/vuforia-ground-plane-107216
+)
+- [Core samples](https://assetstore.unity.com/packages/templates/packs/vuforia-core-samples-99026)
