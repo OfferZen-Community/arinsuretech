@@ -22,6 +22,9 @@ Makers that arrive well prepared get the most out of their experience. Before yo
 
 *Know somebody who would enjoy this course? Tell your friends to [apply here](https://make.offerzen.com/course/root-insurance-augmented-reality)*
 
+### Dojo project
+- [Repo](http://github.com/OfferZen-Make/arinsuretech-kicker)
+
 ### Useful vuforia resources
 
 - [Ground plane](https://assetstore.unity.com/packages/templates/packs/vuforia-ground-plane-107216
