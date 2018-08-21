@@ -71,3 +71,13 @@ If you wanna play with face tracking ;) Link [here](https://www.xzimg.com/Produc
 ### Video - HYPER-REALITY
 _Via [@nash](https://offerzen-make.slack.com/messages/@U9LQD9TMK)_  
 Hyper-Reality presents a provocative and kaleidoscopic new vision of the future, where physical and virtual realities have merged, and the city is saturated in media. Watch it [here](https://www.youtube.com/watch?v=YJg02ivYzSs).
+
+# Tracking Status
+Channels tracked:
+* #arinsuretech
+* #team-alpha-lima
+* #team-alpha-papa
+* #team-alpha-quebec
+
+Last update:
+22-08-2018 00h30
