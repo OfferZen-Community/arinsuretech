@@ -18,6 +18,10 @@ _By [@rozanne](https://offerzen-make.slack.com/messages/@U9WNZ7C74) and [@angus]
 Rozanne de Jager and I created this application during the Build an AR app on Root Insurance course, at Make by OfferZen. It was a great day, and doing work with Augmented Reality is so tangible and cool.  
 You can take a look at the code [here](https://github.com/AngusTheMack/deathcard) and also see a video of the project [here](https://photos.app.goo.gl/kNBLJUVC2TgRWWfY7).
 
+### Project - Text Editor
+_By [@wayde](https://offerzen-make.slack.com/messages/@U9K82LR7D) and [@Brendon Pitcher](https://offerzen-make.slack.com/messages/@UC8F5853R)_
+A text editor which spits out files in AR and allows you to edit them, still a WIP. Link [here](https://bitbucket.org/waydemlyle/makeday/src/master/).
+
 ### Video - Creating AR Content with Vuforia
 _By [@dan](https://offerzen-make.slack.com/messages/@U9M5EBTH9)_  
 In this live session with online evangelist Matt Schell we will look at how to get started creating augmented reality (AR) content using the Vuforia Engine, now integrated directly into the Unity Editor. Link [here](https://www.youtube.com/watch?v=9XikHnTiukk&list=PLX2vGYjWbI0Thl0pOCbKWrbbiw7RWiRG7).
