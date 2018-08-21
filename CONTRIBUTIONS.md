@@ -22,6 +22,10 @@ You can take a look at the code [here](https://github.com/AngusTheMack/deathcard
 _By [@wayde](https://offerzen-make.slack.com/messages/@U9K82LR7D) and [@Brendon Pitcher](https://offerzen-make.slack.com/messages/@UC8F5853R)_
 A text editor which spits out files in AR and allows you to edit them, still a WIP. Link [here](https://bitbucket.org/waydemlyle/makeday/src/master/).
 
+### Project - Card Protection Game
+_By [@Denzil Buchner](https://offerzen-make.slack.com/messages/@UCB4MAGAF) and [@rohan.buchner](https://offerzen-make.slack.com/messages/@U9QECBU1Z)_  
+The idea is to allow each player to scan 3 cards, and insure it against "fire" or "lightning" - basically setting up each card as an insurance policy against each thread. Its up to the player to remember what he assigned to each card. After both players assigned their cards, as instructed by the game, it will randomly chooses the next "threat" and the player has to play their policy to protect against the threat. If they dont have the right policy (or played the wrong one), they lose. WIP. You can download the project [here](https://offerzen-make.slack.com/files/UCB4MAGAF/FCCB71543/archive.zip).
+
 ### Video - Creating AR Content with Vuforia
 _Via [@dan](https://offerzen-make.slack.com/messages/@U9M5EBTH9)_  
 In this live session with online evangelist Matt Schell we will look at how to get started creating augmented reality (AR) content using the Vuforia Engine, now integrated directly into the Unity Editor. Link [here](https://www.youtube.com/watch?v=9XikHnTiukk&list=PLX2vGYjWbI0Thl0pOCbKWrbbiw7RWiRG7).
