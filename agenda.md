@@ -39,6 +39,6 @@ At the end of the day everybody discusses what and how they learned. You should 
 
 ### Johannesburg
 
-[Offerzen Make Space, 1st Floor Rosebank Terraces, 25 Sturdee Avenue, Rosebank](https://www.google.com/maps/place/25+Sturdee+Ave,+Rosebank,+Johannesburg,+2196/@-26.1434055,28.0358781,17z/data=!3m1!4b1!4m5!3m4!1s0x1e950c924edb48f9:0xdc6585783a8bc449!8m2!3d-26.1434103!4d28.0380668)
+[Offerzen Make Space, 1st Floor Rosebank Terraces, 25 Sturdee Avenue, Rosebank](https://www.google.com/maps/place/25+Sturdee+Ave,+Rosebank,+Johannesburg,+2196/@-26.1434055,28.0358781,17z/data=!3m1!4b1!4m5!3m4!1s0x1e950c924edb48f9:0xdc6585783a8bc449!8m2!3d-26.1434103!4d28.0380668) ([Click for Street View](https://www.google.com/maps/@-26.1433971,28.0382165,3a,75y,268.85h,90t/data=!3m7!1e1!3m5!1sz3J3bX9bEi3U8NF23JeaRg!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3Dz3J3bX9bEi3U8NF23JeaRg%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D268.71606%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656))
 
 <b>Parking:</b> Sturdee Avenue has plenty of street parking, but we're also about 1km from the Rosebank Gautrain station if you fancy a walk or a short Uber ride.
