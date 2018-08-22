@@ -39,4 +39,6 @@ At the end of the day everybody discusses what and how they learned. You should 
 
 ### Johannesburg
 
-We have a brand new Make Space opening up in Johannesburg - coming soon!
+[Offerzen Make Space, 1st Floor Rosebank Terraces, 25 Sturdee Avenue, Rosebank](https://www.google.com/maps/place/25+Sturdee+Ave,+Rosebank,+Johannesburg,+2196/@-26.1434055,28.0358781,17z/data=!3m1!4b1!4m5!3m4!1s0x1e950c924edb48f9:0xdc6585783a8bc449!8m2!3d-26.1434103!4d28.0380668)
+
+<b>Parking:</b> Sturdee Avenue has plenty of street parking, but we're also about 1km from the Rosebank Gautrain station if you fancy a walk or a short Uber ride.
