@@ -56,16 +56,15 @@ textObject.text = "test";
 
 ### Video - Creating a Virtual Button
 _Via [@robin](https://offerzen-make.slack.com/messages/@U98E8NB6J) and [@whits](https://offerzen-make.slack.com/messages/@U9WBFSVD0)_
-
-[How to create Virtual buttons with Vuforia AR & Unity3D](https://www.youtube.com/watch?v=ElmzIq6stNI)  
-[Creating AR Content with Vuforia - AR Buttons [4/6] Live 2018/1/24](https://www.youtube.com/watch?v=S1VrS05IxyQ)
+[How to create Virtual buttons with Vuforia AR & Unity3D](https://www.youtube.com/watch?v=ElmzIq6stNI).  
+[Creating AR Content with Vuforia - AR Buttons [4/6] Live 2018/1/24](https://www.youtube.com/watch?v=S1VrS05IxyQ).
 
 ### Asset - Cozmo Cube
 _By [@nash](https://offerzen-make.slack.com/messages/@U9LQD9TMK)_  
 Cozmo cube scanned for Vuforia. Download [here](https://files.slack.com/files-pri/T8CRG18UC-FC89W3G7P/download/cozmocube.unitypackage).
 
 ### Tool - XZIMG Magic Face
-_BViacorrie](https://offerzen-make.slack.com/messages/@U9MCSKB9U)_  
+_Via [@corrie](https://offerzen-make.slack.com/messages/@U9MCSKB9U)_  
 If you wanna play with face tracking ;) Link [here](https://www.xzimg.com/Products?nav=product-XMF).
 
 ### Video - HYPER-REALITY
