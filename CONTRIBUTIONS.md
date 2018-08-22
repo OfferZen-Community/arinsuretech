@@ -71,6 +71,22 @@ If you wanna play with face tracking ;) Link [here](https://www.xzimg.com/Produc
 _Via [@nash](https://offerzen-make.slack.com/messages/@U9LQD9TMK)_  
 Hyper-Reality presents a provocative and kaleidoscopic new vision of the future, where physical and virtual realities have merged, and the city is saturated in media. Watch it [here](https://www.youtube.com/watch?v=YJg02ivYzSs).
 
+### Question - Check if ARCamera first time detect the marker and "spawn" the 3d object
+_Via [@crypticG00se](https://offerzen-make.slack.com/messages/@U9NR48LT1)_  
+Vuforia tracking detection. Link [here](https://stackoverflow.com/questions/42717103/check-if-arcamera-first-time-detect-the-marker-and-spawn-the-3d-object).
+
+### Tutorial - Unity Game State
+_Via [@crypticG00se](https://offerzen-make.slack.com/messages/@U9NR48LT1)_  
+How to create a system to load scenes while preserving game state using the Scene Manager, ScriptableObjects as temporary runtime data storage, delegates and lambda expressions. Link [here](https://unity3d.com/learn/tutorials/projects/adventure-game-tutorial/game-state).
+
+### Tutorial - How can I play audio when targets get detected?
+_Via [@crypticG00se](https://offerzen-make.slack.com/messages/@U9NR48LT1)_  
+How to play audio clips in response to target detection events, using the Unity Vuforia Extension. Link [here](https://developer.vuforia.com/forum/faq/unity-how-can-i-play-audio-when-targets-get-detected).
+
+### Tutorial - Getting started with Rider and Unity
+_Via [@rohan.buchner](https://offerzen-make.slack.com/messages/@U9QECBU1Z)_  
+Using Rider, an IDE for C# and .NET from JetBrains. Link [here](https://blog.jetbrains.com/dotnet/2017/08/30/getting-started-rider-unity/).
+
 # Tracking Status
 Channels tracked:
 * #arinsuretech
@@ -79,4 +95,4 @@ Channels tracked:
 * #team-alpha-quebec
 
 Last update:
-22-08-2018 00h30
+22-08-2018 18h30
