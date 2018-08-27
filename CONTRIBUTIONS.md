@@ -1,17 +1,17 @@
 # Contributions
 Collection of resources from previous attendees :)
 
-- [Projects Created by Makers](#projects-created-by-makers)
-- [Assets](#assets)
-- [Books](#books)
-- [Documentation](#documentation)
-- [Questions](#questions)
-- [Tools](#tools)
-- [Tutorials](#tutorials)
-- [Snippets](#snippets)
-- [Videos](#videos)
+- [Projects Created by Makers](#projects-created-by-makers-) 🔥
+- [Assets](#assets-) 🕶
+- [Books](#books-) 📚
+- [Documentation](#documentation-) 📄
+- [Questions](#questions-) 🤔
+- [Tools](#tools-) ⛏
+- [Tutorials](#tutorials-) 🤓
+- [Snippets](#snippets-) ✨
+- [Videos](#videos-) 🎬
 
-# Projects Created by Makers
+# Projects Created by Makers 🔥
 ### [Make AR Face](https://bitbucket.org/Echochi/make-ar-face)
 _By [@corrie](https://offerzen-make.slack.com/messages/@U9MCSKB9U) and [@shenine](https://offerzen-make.slack.com/messages/@U9LECL4Q3)_  
 This is a project file which contains scripts from XZIMG which does facial recognition and AR mapping. It has a sample scene file which fits face masks on up to 3 people and glasses on the first person matched.
@@ -44,7 +44,7 @@ Project created during the Make Day.
 _By [@Regan](https://offerzen-make.slack.com/messages/@UCDTWU2T0)_  
 This project detects two image targets and renders 3D cars in an AR scene. When they collide and crash into each other, smoke pours out of the car hoods. Then a Root API request could be made, to process an insurance claim.
 
-# Assets
+# Assets 🕶
 ### [Cozmo Cube](https://files.slack.com/files-pri/T8CRG18UC-FC89W3G7P/download/cozmocube.unitypackage)
 _By [@nash](https://offerzen-make.slack.com/messages/@U9LQD9TMK)_  
 Cozmo cube scanned for Vuforia.
@@ -53,22 +53,22 @@ Cozmo cube scanned for Vuforia.
 _Via [@Johan Heymans](https://offerzen-make.slack.com/messages/@U9PH117N0)_  
 Lots of free 3D models.
 
-# Books
+# Books 📚
 ### [Getting Started with Unity 2018](https://www.amazon.com/Getting-Started-Unity-2018-development-ebook/dp/B07BP9Y7RB)
 _Via [@jojo](https://offerzen-make.slack.com/messages/@UC088FCUS)_  
 Learn how to use Unity 2018 by creating your very own 3D game while developing your essential skills.
 
-# Documentation
+# Documentation 📄
 ### [Unity Scripting Reference](https://unity3d.com/learn/tutorials/s/scripting)
 _Via [Herman](https://offerzen-make.slack.com/messages/@U9KSM2264)_  
 Unity scripting guides. Learn about programming from scratch, then progress to create detailed code for your projects.
 
-# Questions
+# Questions 🤔
 ### [Check if ARCamera first time detect the marker and "spawn" the 3d object](https://stackoverflow.com/questions/42717103/check-if-arcamera-first-time-detect-the-marker-and-spawn-the-3d-object)
 _Via [@crypticG00se](https://offerzen-make.slack.com/messages/@U9NR48LT1)_  
 Vuforia tracking detection.
 
-# Tools
+# Tools ⛏
 ### [XZIMG Magic Face](https://www.xzimg.com/Products?nav=product-XMF)
 _Via [@corrie](https://offerzen-make.slack.com/messages/@U9MCSKB9U)_  
 If you wanna play with face tracking ;)
@@ -81,7 +81,7 @@ With Qlone, anyone can instantly scan any object, modify it for any purpose and 
 _Via [@dan](https://offerzen-make.slack.com/messages/@U9M5EBTH9)_  
 Simple HTTP and REST client for Unity based on Promises, also supports Callbacks!
 
-# Tutorials
+# Tutorials 🤓
 ### [Unity Game State](https://unity3d.com/learn/tutorials/projects/adventure-game-tutorial/game-state)
 _Via [@crypticG00se](https://offerzen-make.slack.com/messages/@U9NR48LT1)_  
 How to create a system to load scenes while preserving game state using the Scene Manager, ScriptableObjects as temporary runtime data storage, delegates and lambda expressions.
@@ -94,7 +94,7 @@ How to play audio clips in response to target detection events, using the Unity 
 _Via [@rohan.buchner](https://offerzen-make.slack.com/messages/@U9QECBU1Z)_  
 Using Rider, an IDE for C# and .NET from JetBrains.
 
-# Snippets
+# Snippets ✨
 ### Change TextObject via script
 _By [@wayde](https://offerzen-make.slack.com/messages/@U9K82LR7D)_
 ```
@@ -103,7 +103,7 @@ TextMesh textObject = GameObject.Find("Target/Text").GetComponent<TextMesh>();
 textObject.text = "test";
 ```
 
-# Videos
+# Videos 🎬
 ### [Creating AR Content with Vuforia](https://www.youtube.com/watch?v=9XikHnTiukk&list=PLX2vGYjWbI0Thl0pOCbKWrbbiw7RWiRG7)
 _Via [@dan](https://offerzen-make.slack.com/messages/@U9M5EBTH9)_  
 In this live session with online evangelist Matt Schell we will look at how to get started creating augmented reality (AR) content using the Vuforia Engine, now integrated directly into the Unity Editor.
