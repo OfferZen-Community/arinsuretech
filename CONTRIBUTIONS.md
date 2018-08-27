@@ -26,6 +26,14 @@ A text editor which spits out files in AR and allows you to edit them, still a W
 _By [@Denzil Buchner](https://offerzen-make.slack.com/messages/@UCB4MAGAF) and [@rohan.buchner](https://offerzen-make.slack.com/messages/@U9QECBU1Z)_  
 The idea is to allow each player to scan 3 cards, and insure it against "fire" or "lightning" - basically setting up each card as an insurance policy against each thread. Its up to the player to remember what he assigned to each card. After both players assigned their cards, as instructed by the game, it will randomly chooses the next "threat" and the player has to play their policy to protect against the threat. If they dont have the right policy (or played the wrong one), they lose. WIP. You can download the project [here](https://offerzen-make.slack.com/files/UCB4MAGAF/FCCB71543/archive.zip).
 
+### Project - Make Day Work
+_By [@Nicki De Bruyn](https://offerzen-make.slack.com/messages/@UCB82PWBD)_  
+Project created during the Make Day. Link [here](https://github.com/nickidebruyn/makedaywork).
+
+### Project - Car Crash
+_By [@Regan](https://offerzen-make.slack.com/messages/@UCDTWU2T0)_  
+This project detects two image targets and renders 3D cars in an AR scene. When they collide and crash into each other, smoke pours out of the car hoods. Then a Root API request could be made, to process an insurance claim. Link [here](https://github.com/Regan-Koopmans/arinsuretech-carcrash).
+
 ### Video - Creating AR Content with Vuforia
 _Via [@dan](https://offerzen-make.slack.com/messages/@U9M5EBTH9)_  
 In this live session with online evangelist Matt Schell we will look at how to get started creating augmented reality (AR) content using the Vuforia Engine, now integrated directly into the Unity Editor. Link [here](https://www.youtube.com/watch?v=9XikHnTiukk&list=PLX2vGYjWbI0Thl0pOCbKWrbbiw7RWiRG7).
@@ -37,6 +45,15 @@ Welcome to this introduction to game development. We'll be starting from the beg
 ### Video - Detecting Collisions (OnCollisionEnter) - Unity Official Tutorials
 _Via [@bryanbanda](https://offerzen-make.slack.com/messages/@UC7QLG788)_  
 If you want to detect collisions in your program, just check out [this](https://www.youtube.com/watch?v=QRp4V1JTZnM) video.
+
+### Video - Creating a Virtual Button
+_Via [@robin](https://offerzen-make.slack.com/messages/@U98E8NB6J) and [@whits](https://offerzen-make.slack.com/messages/@U9WBFSVD0)_
+[How to create Virtual buttons with Vuforia AR & Unity3D](https://www.youtube.com/watch?v=ElmzIq6stNI).  
+[Creating AR Content with Vuforia - AR Buttons [4/6] Live 2018/1/24](https://www.youtube.com/watch?v=S1VrS05IxyQ).
+
+### Video - HYPER-REALITY
+_Via [@nash](https://offerzen-make.slack.com/messages/@U9LQD9TMK)_  
+Hyper-Reality presents a provocative and kaleidoscopic new vision of the future, where physical and virtual realities have merged, and the city is saturated in media. Watch it [here](https://www.youtube.com/watch?v=YJg02ivYzSs).
 
 ### Book - Getting Started with Unity 2018
 _Via [@jojo](https://offerzen-make.slack.com/messages/@UC088FCUS)_  
@@ -54,22 +71,25 @@ TextMesh textObject = GameObject.Find("Target/Text").GetComponent<TextMesh>();
 textObject.text = "test";
 ```
 
-### Video - Creating a Virtual Button
-_Via [@robin](https://offerzen-make.slack.com/messages/@U98E8NB6J) and [@whits](https://offerzen-make.slack.com/messages/@U9WBFSVD0)_
-[How to create Virtual buttons with Vuforia AR & Unity3D](https://www.youtube.com/watch?v=ElmzIq6stNI).  
-[Creating AR Content with Vuforia - AR Buttons [4/6] Live 2018/1/24](https://www.youtube.com/watch?v=S1VrS05IxyQ).
-
 ### Asset - Cozmo Cube
 _By [@nash](https://offerzen-make.slack.com/messages/@U9LQD9TMK)_  
 Cozmo cube scanned for Vuforia. Download [here](https://files.slack.com/files-pri/T8CRG18UC-FC89W3G7P/download/cozmocube.unitypackage).
+
+### Asset - Poly
+_Via [@Johan Heymans](https://offerzen-make.slack.com/messages/@U9PH117N0)_  
+Lots of free 3D models. Link [here](https://poly.google.com/).
 
 ### Tool - XZIMG Magic Face
 _Via [@corrie](https://offerzen-make.slack.com/messages/@U9MCSKB9U)_  
 If you wanna play with face tracking ;) Link [here](https://www.xzimg.com/Products?nav=product-XMF).
 
-### Video - HYPER-REALITY
-_Via [@nash](https://offerzen-make.slack.com/messages/@U9LQD9TMK)_  
-Hyper-Reality presents a provocative and kaleidoscopic new vision of the future, where physical and virtual realities have merged, and the city is saturated in media. Watch it [here](https://www.youtube.com/watch?v=YJg02ivYzSs).
+### Tool - Qlone
+_Via [@robin](https://offerzen-make.slack.com/messages/@U98E8NB6J)_  
+With Qlone, anyone can instantly scan any object, modify it for any purpose and seamlessly export it to any platform... all on your iPhone or iPad. Link [here](https://www.qlone.pro/).
+
+### Tool - RestClient
+_Via [@dan](https://offerzen-make.slack.com/messages/@U9M5EBTH9)_  
+Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! Link [here](https://github.com/proyecto26/RestClient).
 
 ### Question - Check if ARCamera first time detect the marker and "spawn" the 3d object
 _Via [@crypticG00se](https://offerzen-make.slack.com/messages/@U9NR48LT1)_  
@@ -93,6 +113,7 @@ Channels tracked:
 * #team-alpha-lima
 * #team-alpha-papa
 * #team-alpha-quebec
+* #team-alpha-sierra
 
 Last update:
-22-08-2018 18h30
+27-08-2018 18h30
