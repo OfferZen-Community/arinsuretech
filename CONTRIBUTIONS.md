@@ -5,6 +5,7 @@ Collection of resources from previous attendees :)
 - [Assets](#assets-) 🕶
 - [Books](#books-) 📚
 - [Documentation](#documentation-) 📄
+- [Ideas](#ideas-) 💡
 - [Questions](#questions-) 🤔
 - [Tools](#tools-) ⛏
 - [Tutorials](#tutorials-) 🤓
@@ -36,13 +37,21 @@ A text editor which spits out files in AR and allows you to edit them, still a W
 _By [@Denzil Buchner](https://offerzen-make.slack.com/messages/@UCB4MAGAF) and [@rohan.buchner](https://offerzen-make.slack.com/messages/@U9QECBU1Z)_  
 The idea is to allow each player to scan 3 cards, and insure it against "fire" or "lightning" - basically setting up each card as an insurance policy against each thread. Its up to the player to remember what he assigned to each card. After both players assigned their cards, as instructed by the game, it will randomly chooses the next "threat" and the player has to play their policy to protect against the threat. If they dont have the right policy (or played the wrong one), they lose. WIP. You can download the project.
 
-### [Make Day Work](https://github.com/nickidebruyn/makedaywork)
-_By [@Nicki De Bruyn](https://offerzen-make.slack.com/messages/@UCB82PWBD)_  
-Project created during the Make Day.
+### [Life Insurance + Road Game](https://github.com/nickidebruyn/makedaywork)
+_By [@Nicki De Bruyn](https://offerzen-make.slack.com/messages/@UCB82PWBD) and [@Jurgslack](https://offerzen-make.slack.com/messages/@UCC9XTX6Z)_  
+Choose your player between a male, female or smoker. After that, play on a busy road with your character, trying to avoid the traffic. Take a look at the video [here](https://photos.google.com/share/AF1QipNmSWFsGrhR7HUkSrBaxBcCi5ubInOLbxdvE4snYSV8j9DhmbjGFWDOwOUFPiFnDg/photo/AF1QipMDE6HF_8gpQnrsCu9u9yEQHK_F-SG55o5ggPfc?key=cHFNTHRtVUNZUzZzaWRBR0dPbVRNUER5ajlrNXZR).
 
 ### [Car Crash](https://github.com/Regan-Koopmans/arinsuretech-carcrash)
-_By [@Regan](https://offerzen-make.slack.com/messages/@UCDTWU2T0)_  
-This project detects two image targets and renders 3D cars in an AR scene. When they collide and crash into each other, smoke pours out of the car hoods. Then a Root API request could be made, to process an insurance claim.
+_By [@Regan](https://offerzen-make.slack.com/messages/@UCDTWU2T0) and [@Dewald Ayres](https://offerzen-make.slack.com/messages/@UCBCNEVEW)_  
+This project detects two image targets and renders 3D cars in an AR scene. When they collide and crash into each other, smoke pours out of the car hoods. Then a Root API request could be made, to process an insurance claim. You can take a look at the video [here](https://photos.google.com/share/AF1QipNmSWFsGrhR7HUkSrBaxBcCi5ubInOLbxdvE4snYSV8j9DhmbjGFWDOwOUFPiFnDg/photo/AF1QipPfmDN-wYKHhR06EOmq_iIgXli_Xgt5IlOHHyq8?key=cHFNTHRtVUNZUzZzaWRBR0dPbVRNUER5ajlrNXZR).
+
+### [Falcon Heavy](https://files.slack.com/files-pri/T8CRG18UC-FCKL3329W/download/my_unity_project_2.zip)
+_By [@Roland](https://offerzen-make.slack.com/team/UCFEFFS12) and [@rawdreeg](https://offerzen-make.slack.com/messages/@UCF4RRRU4)_  
+An AR application that launches the Falcon Heavy off of an ImageTarget.
+
+### [Rock-paper-scissors](https://github.com/littlefluffie/RockPaperScissors)
+_By [@Donovan Jordaan](https://offerzen-make.slack.com/messages/@UCDFBAHS8) and [Hein du Toit](https://offerzen-make.slack.com/messages/@UCF227WLW)_  
+Well, it is Rock-paper-scissors, in AR! Take a look at the project's video [here](https://photos.google.com/share/AF1QipPOUOPhVQzaTcdmpV82OQU9FSTY4nwwBe_r1Z4lRGSDDZxNNrV5M3RwqeQ360o1uQ/photo/AF1QipOQcv1THkM45ydKGiRMytF_m6O_O8qWVopWjWYJ?key=Zkg0X3BWMWw2LWlZREJIVmhDOUxUWER4RkYxM0dR).
 
 # Assets 🕶
 ### [Cozmo Cube](https://files.slack.com/files-pri/T8CRG18UC-FC89W3G7P/download/cozmocube.unitypackage)
@@ -62,6 +71,66 @@ Learn how to use Unity 2018 by creating your very own 3D game while developing y
 ### [Unity Scripting Reference](https://unity3d.com/learn/tutorials/s/scripting)
 _Via [Herman](https://offerzen-make.slack.com/messages/@U9KSM2264)_  
 Unity scripting guides. Learn about programming from scratch, then progress to create detailed code for your projects.
+
+### [Find tagged Game Objects](https://docs.unity3d.com/ScriptReference/GameObject.FindWithTag.html)
+_Via [@dan](https://offerzen-make.slack.com/messages/@U9M5EBTH9)_  
+
+### [Physic Material](https://docs.unity3d.com/Manual/class-PhysicMaterial.html)
+_Via [@dan](https://offerzen-make.slack.com/messages/@U9M5EBTH9)_  
+The Physic Material is used to adjust friction and bouncing effects of colliding objects.
+
+# Ideas 💡
+### [Ball Hitting the Wall](https://photos.google.com/share/AF1QipOHFq7mvfFdPB3U4WwPEyVpxtbMBORuiJElwFjiRKth_F0nMh30VG5qMqw0xxK_Xg/photo/AF1QipOGmWZcKs3RpQ_lIEfGtJMog6_C_oYt6UTQomjX?key=WmNHRDVoTnk5WHFTSVV1V0kwQ3YxMnpxR1c3ejVR)
+_By [@jan](https://offerzen-make.slack.com/messages/@U9U5PCNP4)_  
+Spawns a wall and a ball by scanning an ImageTarget. The ball is thrown agains the wall when clicked, and it goes faster if clicked faster.
+
+### [Sum Game](https://photos.google.com/share/AF1QipPOUOPhVQzaTcdmpV82OQU9FSTY4nwwBe_r1Z4lRGSDDZxNNrV5M3RwqeQ360o1uQ/photo/AF1QipM4ipZFouUKUnncmGtbgVCuiBbr8XkyRbgbVAt7?key=Zkg0X3BWMWw2LWlZREJIVmhDOUxUWER4RkYxM0dR)
+_By [@Matthew Mason](https://offerzen-make.slack.com/messages/@U92BSRZGT) and [@Gustav Bertram](https://offerzen-make.slack.com/messages/@UCEND7G0P)_  
+The game reads three different cards, each one with a different price tag. When you click the "Create Quota" button, it gets a Root Insurance Quota with the sum of all cards on the screen. 
+
+### [FAST Insurance](https://photos.google.com/share/AF1QipNmSWFsGrhR7HUkSrBaxBcCi5ubInOLbxdvE4snYSV8j9DhmbjGFWDOwOUFPiFnDg/photo/AF1QipNoGQPDrLv8UR0BR0zWZQsRcvwFTvz2TCVNp76c?key=cHFNTHRtVUNZUzZzaWRBR0dPbVRNUER5ajlrNXZR)
+_By [@Eduan van Rooyen](https://offerzen-make.slack.com/messages/@UCBCS15NW)_  
+Can Root API insure a falling ball _before_ it hits the ground?
+
+### [Tank Shooting](https://photos.google.com/share/AF1QipNmSWFsGrhR7HUkSrBaxBcCi5ubInOLbxdvE4snYSV8j9DhmbjGFWDOwOUFPiFnDg/photo/AF1QipOx8jYR0Tbeyvz3oTL1NGw-8qh2t57UkYmf5p9S?key=cHFNTHRtVUNZUzZzaWRBR0dPbVRNUER5ajlrNXZR)
+_By [@Johan Heymans](https://offerzen-make.slack.com/messages/@U9PH117N0) and [@Hugo Coppejans](https://offerzen-make.slack.com/messages/@UBDRNRZGU)_  
+A two-player game where tanks shoot each other, bouncing their projectiles between walls. If you are afraid of loosing, you may insure your tank, but that will cost your precious money!
+
+### [Running Kid](https://photos.google.com/share/AF1QipNmSWFsGrhR7HUkSrBaxBcCi5ubInOLbxdvE4snYSV8j9DhmbjGFWDOwOUFPiFnDg/photo/AF1QipOD8gJHnpnBqXiBYFASPZYaQLCixc0b0lL7qOP5?key=cHFNTHRtVUNZUzZzaWRBR0dPbVRNUER5ajlrNXZR)
+_By [@Sherwin Hulley](https://offerzen-make.slack.com/messages/@UA22SD71S) and [@Peter-John Welcome](https://offerzen-make.slack.com/messages/@UA0AAMMBN)_  
+Control an animated kid running around the real world.
+
+### [Insuring Cards Against Fire and Lightning](https://photos.google.com/share/AF1QipMR9LlnsxqY5XBRUPs9qaTCy0ECbL0BPtAiaREKj4CYnTmlbSgyZUB899j4UwhDGQ/photo/AF1QipMTO9h7XeO8nFBk6QFVXVpQS42WZ7xSkdeXlozt?key=VF9mNE1zcE51dGMtcEh3Y2wyak5aMjJmZS00TGJB)
+_By [@Vereese Van Tonder](https://offerzen-make.slack.com/messages/@UCC93778F), [@Denzil](https://offerzen-make.slack.com/messages/@UCB4MAGAF) and [@rohan.buchner](https://offerzen-make.slack.com/messages/@U9QECBU1Z)_  
+Insuring Cards Against Fire and Lightning.
+
+### [Gravity and Antigravity in AR](https://photos.google.com/share/AF1QipMR9LlnsxqY5XBRUPs9qaTCy0ECbL0BPtAiaREKj4CYnTmlbSgyZUB899j4UwhDGQ/photo/AF1QipPGeH6eFOMxF-mShiLTujgCQxDDbYTRtPPNO4Mq?key=VF9mNE1zcE51dGMtcEh3Y2wyak5aMjJmZS00TGJB)
+_By [@Francois du Toit](https://offerzen-make.slack.com/messages/@U92C2GUHJ)_  
+Use two different ImageTargets to attract or repel a capsule in the screen.
+
+### [Dinossaur Insurance](https://photos.google.com/share/AF1QipMR9LlnsxqY5XBRUPs9qaTCy0ECbL0BPtAiaREKj4CYnTmlbSgyZUB899j4UwhDGQ/photo/AF1QipNNXhx3X2T6FQC5x-dFj1KBCf3cl6mBnpOZmqGT?key=VF9mNE1zcE51dGMtcEh3Y2wyak5aMjJmZS00TGJB)
+_By [@Tyler Donaldson](https://offerzen-make.slack.com/messages/@UCC5Y3HQX)_  
+Insuring a cute dinossaur using the Root API.
+
+### [Insurance Game Board](https://photos.google.com/share/AF1QipMiKkagFmC3XElfm-VF1DidPbGvDwP3Bc6zc9MFlcrlYpheH6TRC2WVVHAUb3KQyA/photo/AF1QipM4EJ-lqGWIMvFd340pW0uhqarqg313vHwrMNp4?key=M2Rfci1XWjU1azRmR2dEdjlvSHV6akFCSGtqOTZB)
+_By [@Rozanne de Jager](https://offerzen-make.slack.com/messages/@U9WNZ7C74) and [@Angus Mackenzie](https://offerzen-make.slack.com/messages/@UC6JH787K)_  
+Using a board drawn on the table, identify determined cards, insurance them and show your score.
+
+### [Bowling in AR](https://photos.google.com/share/AF1QipMiKkagFmC3XElfm-VF1DidPbGvDwP3Bc6zc9MFlcrlYpheH6TRC2WVVHAUb3KQyA/photo/AF1QipPOZn-6Fu13fJc8kEs9zwcV82srAavX9el6WYg4?key=M2Rfci1XWjU1azRmR2dEdjlvSHV6akFCSGtqOTZB)
+_By [@Mark Jones](https://offerzen-make.slack.com/messages/@U9Y7ABLLW)_  
+A bowling game, where the ball is shot by an AR virtual button.
+
+### [Bowling in AR #2](https://photos.google.com/share/AF1QipMiKkagFmC3XElfm-VF1DidPbGvDwP3Bc6zc9MFlcrlYpheH6TRC2WVVHAUb3KQyA/photo/AF1QipNviMEZ7UOMFOcoDiRLhLLWHz65Pi4DkBtPLmlh?key=M2Rfci1XWjU1azRmR2dEdjlvSHV6akFCSGtqOTZB)
+_By [@Paul](https://offerzen-make.slack.com/messages/@UCA066QRM)_  
+A bowling game, where the ball is shot by an AR virtual button. This time, spawns the pins and ball with different cards. Also, the project was deployed in a smartphone, so the pins can be applied anywhere in the real world.
+
+### [Text Editor in AR](https://photos.google.com/share/AF1QipOHfXUAQAthK6GO1UD4hz1U_p3b69FWR_XLGg0APr-HsxmIAU9hk73h6FwpbEM8DA/photo/AF1QipOfyJOCQ41Lw5ZQOnMlDChyKYNeEShmC0H9loAE?key=VWxxd0lraUtGNkVGeE0tdGFienZKX2U2NXZ2dExR)
+_By [@Wayde](https://offerzen-make.slack.com/messages/@U9K82LR7D)_  
+Insure a card using Root API and dinamically adds text to a TextObject with AR.
+
+### [Shooting a fly into a banana](https://photos.google.com/share/AF1QipOHfXUAQAthK6GO1UD4hz1U_p3b69FWR_XLGg0APr-HsxmIAU9hk73h6FwpbEM8DA/photo/AF1QipN-5SCe8l6irKcE1pHNSfE1uXEq4o--3NZQu6ZG?key=VWxxd0lraUtGNkVGeE0tdGFienZKX2U2NXZ2dExR)
+_By [@Melissa Kahn](https://offerzen-make.slack.com/messages/@UC6N4KU5N) and [@whits](https://offerzen-make.slack.com/messages/@U9WBFSVD0)_  
+Using a VirtualButton, shoots a fly into a banana, playing an awesome custom made sound.
 
 # Questions 🤔
 ### [Check if ARCamera first time detect the marker and "spawn" the 3d object](https://stackoverflow.com/questions/42717103/check-if-arcamera-first-time-detect-the-marker-and-spawn-the-3d-object)
@@ -103,6 +172,20 @@ TextMesh textObject = GameObject.Find("Target/Text").GetComponent<TextMesh>();
 textObject.text = "test";
 ```
 
+### Trigger a script when image is recognised
+_By [@rohan.buchner](https://offerzen-make.slack.com/messages/@U9QECBU1Z)_
+```
+// Create a class that inherits from/extends the DefaultTrackableEventHandler class
+// then override
+protected override void OnTrackingFound()
+{
+    // run the base code
+    base.OnTrackingFound();
+    
+    // then your own code
+}
+```
+
 # Videos 🎬
 ### [Creating AR Content with Vuforia](https://www.youtube.com/watch?v=9XikHnTiukk&list=PLX2vGYjWbI0Thl0pOCbKWrbbiw7RWiRG7)
 _Via [@dan](https://offerzen-make.slack.com/messages/@U9M5EBTH9)_  
@@ -128,6 +211,17 @@ In this live session with online evangelist Matt Schell we will look at how to g
 _Via [@nash](https://offerzen-make.slack.com/messages/@U9LQD9TMK)_  
 Hyper-Reality presents a provocative and kaleidoscopic new vision of the future, where physical and virtual realities have merged, and the city is saturated in media.
 
+### [A Real Life Haptic Glove (Ready Player One Technology Today) - Smarter Every Day 190](https://www.youtube.com/watch?v=OK2y4Z5IkZ0)
+_Via [@vandiedakaf](https://offerzen-make.slack.com/messages/@U92C2GUHJ)_  
+
+### [CSR2 - PLACE YOUR CARS IN THE REAL WORLD! (ON iOS)](https://www.youtube.com/watch?v=FIB6So0gie4)
+_Via [@Mario Peusschers](https://offerzen-make.slack.com/messages/@UCKCUPFFB)_  
+Make your dream car a reality! Place your CSR2 cars in the real world using the brand new augmented reality feature on iOS devices (iPhone 6S and above and on iOS 11). Interact with your car, take a peek under the hood and even step inside your cars in any location!
+
+### [Augmentors Game Trailer](https://www.youtube.com/watch?v=H1gfkLNu9oI)
+_Via [@nash](https://offerzen-make.slack.com/messages/@U9LQD9TMK)_  
+Forged by the great powers of augmented reality and blockchain technologies, Augmentors puts you in control of fantastical creatures. Collect an army of powerful and rare creatures as you battle, train, buy and sell them. You, oh Heroic One, will become the greatest Augmentors player in the augmented reality world.
+
 # Tracking Status
 Channels tracked:
 * #arinsuretech
@@ -135,6 +229,8 @@ Channels tracked:
 * #team-alpha-papa
 * #team-alpha-quebec
 * #team-alpha-sierra
+* #team-alpha-tango
+* #team-alpha-victor
 
 Last update:
-27-08-2018 19h00
+04-09-2018 23h30
