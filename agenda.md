@@ -18,9 +18,9 @@ At the end of the day everybody discusses what and how they learned. You should 
 | 8h30  - 8h45  | Intro to Make |
 | 8h45  - 9h00  | Intro to Unity AR and Root Insurance |
 | 9h00  - 9h15  | Introduce yourself! |
-| 9h15  - 10h15 | Guided group build session |
-| 10h15 - 10h45 | Teaming up and brainstorming |
-| 10h45 - 12h15 | Make, play and learn - session 1 |
+| 9h15  - 9h35  | Group brainstorming |
+| 9h35 - 9h50  | Teaming up and planning |
+| 9h50 - 12h15 | Make, play and learn - session 1 |
 | 12h15 - 12h30 | Stand-up |
 | 12h30 - 13h00  | Lunch |
 | 13h00 - 16h30 | Make, play and learn - session 2 |
