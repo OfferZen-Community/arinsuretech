@@ -14,17 +14,21 @@ Makers that arrive well prepared get the most out of their experience. Before yo
 - [ ] Complete prep activities and check out the further reading and info
 
 ### Prep activities
-- [Set up Root](https://github.com/OfferZen-Make/arinsuretech-activity-root-setup) - *15 minutes*
-- [Get started with Unity](https://github.com/OfferZen-Make/arinsuretech-activity-unity-setup) - *1 hour*
 
-*Know somebody who would enjoy this course? Tell your friends to [apply here](https://make.offerzen.com/course/root-insurance-augmented-reality)*
+Time at a Make Day is valuable! Arrive well prepared to get the most out of it.
+
+- [Set up Root](https://github.com/OfferZen-Make/arinsuretech-activity-root-setup) - *15 minutes*
+- [Set up Unity](https://github.com/OfferZen-Make/arinsuretech-activity-unity-setup) - *1 hour* (mostly idle time)
+- [AR dojo: Vuforia image targets and Unity physics](http://github.com/OfferZen-Make/arinsuretech-kicker) - *1 hour*
+- [Video tutorial: Building AR content in Vuforia](https://www.youtube.com/watch?v=9XikHnTiukk&list=PLX2vGYjWbI0Thl0pOCbKWrbbiw7RWiRG7)
+- [Scripting in Unity: From Beginner to Advanced](https://unity3d.com/learn/tutorials/s/scripting) - *Note that C# is the only available language now. JS and Boo are gone!*
 
 ### Contributions
 Take a peak at what other Makers already shared in Slack during this course in the [CONTRIBUTIONS.md](https://github.com/OfferZen-Make/arinsuretech/blob/master/CONTRIBUTIONS.md) file.
 
-### Dojo project
-- [Repo](http://github.com/OfferZen-Make/arinsuretech-kicker)
-
 ### Useful vuforia resources
 - [Ground plane](https://assetstore.unity.com/packages/templates/packs/vuforia-ground-plane-107216)
 - [Core samples](https://assetstore.unity.com/packages/templates/packs/vuforia-core-samples-99026)
+
+*Know somebody who would enjoy this course? Tell your friends to [apply here](https://make.offerzen.com/course/root-insurance-augmented-reality)*
+
