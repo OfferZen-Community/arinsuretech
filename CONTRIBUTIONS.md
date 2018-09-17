@@ -59,6 +59,7 @@ Rocket firing game with collection and score counter.
 
 ### [Rocket Insure Make Day](https://github.com/nkuresha/RocketInsureMakeDay)
 _By [@Kuresha Nandkishore](https://offerzen-make.slack.com/messages/@UCKQNDLAF)_  
+In this project, we attempted to gamefy the launch and successful land of a rocket. Prior to launch the pilot would be given funeral cover dependent on his details.
 
 ### [Make Battleship](https://bitbucket.org/darthfrago/makebattleship)
 _By [@Frans Hanyane](https://offerzen-make.slack.com/messages/@UCJS3KVLG)_  
@@ -66,6 +67,11 @@ This is our OfferZen Make Day Project. The idea was having our battleship take o
 
 ### [Make Day AR Root](https://github.com/Emoogan/makeDayARRoot)
 _By [@Megan_vp](https://offerzen-make.slack.com/messages/@UCLNC4R2B)_  
+It is the beginning of a project to sign contracts in AR. Currently just has a contract acquiescence AR button and a chalk marker linked to a cuboid to use to sign.
+
+### [Phone Insurance](https://offerzen-make.slack.com/files/UCR426CR0/FCT3TH3KP/root.zip)
+_By fishyfishphil[@](https://offerzen-make.slack.com/messages/@UCR426CR0)_  
+It displays a model of the "phone" you're wanting to insure along with the monthly premium.
 
 # Assets 🕶
 ### [Cozmo Cube](https://files.slack.com/files-pri/T8CRG18UC-FC89W3G7P/download/cozmocube.unitypackage)
