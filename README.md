@@ -31,7 +31,7 @@ Take a peak at what other Makers already shared in Slack during this course in t
 - [Core samples](https://assetstore.unity.com/packages/templates/packs/vuforia-core-samples-99026)
 
 ### Postman Collection Demo
-- A postman collection with collection variable for the Root API. [Collection](./Root_Postman_Demo.postman_collection.json)
+- A postman collection with a collection variable for the Root API key. [Collection](./Root_Postman_Demo.postman_collection.json)
 
 *Know somebody who would enjoy this course? Tell your friends to [apply here](https://make.offerzen.com/course/root-insurance-augmented-reality)*
 
