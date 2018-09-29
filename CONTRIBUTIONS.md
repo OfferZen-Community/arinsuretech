@@ -53,6 +53,26 @@ An AR application that launches the Falcon Heavy off of an ImageTarget.
 _By [@Donovan Jordaan](https://offerzen-make.slack.com/messages/@UCDFBAHS8) and [Hein du Toit](https://offerzen-make.slack.com/messages/@UCF227WLW)_  
 Well, it is Rock-paper-scissors, in AR! Take a look at the project's video [here](https://photos.google.com/share/AF1QipPOUOPhVQzaTcdmpV82OQU9FSTY4nwwBe_r1Z4lRGSDDZxNNrV5M3RwqeQ360o1uQ/photo/AF1QipOQcv1THkM45ydKGiRMytF_m6O_O8qWVopWjWYJ?key=Zkg0X3BWMWw2LWlZREJIVmhDOUxUWER4RkYxM0dR).
 
+### [Fight Night](https://offerzen-make.slack.com/files/UCKNG4A05/FCPDWV4TH/fightnight.unitypackage)
+_By [@Benito Pellencin](https://offerzen-make.slack.com/messages/@UCKNG4A05)_  
+Rocket firing game with collection and score counter.
+
+### [Rocket Insure Make Day](https://github.com/nkuresha/RocketInsureMakeDay)
+_By [@Kuresha Nandkishore](https://offerzen-make.slack.com/messages/@UCKQNDLAF)_  
+In this project, we attempted to gamefy the launch and successful land of a rocket. Prior to launch the pilot would be given funeral cover dependent on his details.
+
+### [Make Battleship](https://bitbucket.org/darthfrago/makebattleship)
+_By [@Frans Hanyane](https://offerzen-make.slack.com/messages/@UCJS3KVLG)_  
+This is our OfferZen Make Day Project. The idea was having our battleship take on two pirate ships, and if it dies, it can re-spawn by making an insurance claim. Furthermore the government should subsidise our premium for every pirate ship we destroy.
+
+### [Make Day AR Root](https://github.com/Emoogan/makeDayARRoot)
+_By [@Megan_vp](https://offerzen-make.slack.com/messages/@UCLNC4R2B)_  
+It is the beginning of a project to sign contracts in AR. Currently just has a contract acquiescence AR button and a chalk marker linked to a cuboid to use to sign.
+
+### [Phone Insurance](https://offerzen-make.slack.com/files/UCR426CR0/FCT3TH3KP/root.zip)
+_By fishyfishphil[@](https://offerzen-make.slack.com/messages/@UCR426CR0)_  
+It displays a model of the "phone" you're wanting to insure along with the monthly premium.
+
 # Assets 🕶
 ### [Cozmo Cube](https://files.slack.com/files-pri/T8CRG18UC-FC89W3G7P/download/cozmocube.unitypackage)
 _By [@nash](https://offerzen-make.slack.com/messages/@U9LQD9TMK)_  
@@ -78,6 +98,10 @@ _Via [@dan](https://offerzen-make.slack.com/messages/@U9M5EBTH9)_
 ### [Physic Material](https://docs.unity3d.com/Manual/class-PhysicMaterial.html)
 _Via [@dan](https://offerzen-make.slack.com/messages/@U9M5EBTH9)_  
 The Physic Material is used to adjust friction and bouncing effects of colliding objects.
+
+### [Unity - Scripting](https://unity3d.com/learn/tutorials/s/scripting)
+_Via [@Salomon](https://offerzen-make.slack.com/messages/@UCMFWSXBK)_  
+For anyone either looking for more information on unity or future Make day goers - this is a great resource to go through as prep.
 
 # Ideas 💡
 ### [Ball Hitting the Wall](https://photos.google.com/share/AF1QipOHFq7mvfFdPB3U4WwPEyVpxtbMBORuiJElwFjiRKth_F0nMh30VG5qMqw0xxK_Xg/photo/AF1QipOGmWZcKs3RpQ_lIEfGtJMog6_C_oYt6UTQomjX?key=WmNHRDVoTnk5WHFTSVV1V0kwQ3YxMnpxR1c3ejVR)
@@ -132,10 +156,18 @@ Insure a card using Root API and dinamically adds text to a TextObject with AR.
 _By [@Melissa Kahn](https://offerzen-make.slack.com/messages/@UC6N4KU5N) and [@whits](https://offerzen-make.slack.com/messages/@U9WBFSVD0)_  
 Using a VirtualButton, shoots a fly into a banana, playing an awesome custom made sound.
 
+### [INKHUNTER](http://inkhunter.tattoo/) 
+_Via [@robin](https://offerzen-make.slack.com/messages/@U98E8NB6J)_  
+Pretty cool use of AR to have a look what a tattoo could look like before making it permanent.
+
 # Questions 🤔
 ### [Check if ARCamera first time detect the marker and "spawn" the 3d object](https://stackoverflow.com/questions/42717103/check-if-arcamera-first-time-detect-the-marker-and-spawn-the-3d-object)
 _Via [@crypticG00se](https://offerzen-make.slack.com/messages/@U9NR48LT1)_  
 Vuforia tracking detection.
+
+### [Pause animation with Vuforia](https://forum.unity.com/threads/pause-animation-with-vuforia.265152/)
+_Via [@Mario Peusschers](https://offerzen-make.slack.com/messages/@UCKCUPFFB)_  
+For the peeps who had issues with getting our Model Animations (a specific attack animation in this case) to fire once your model has triggered.
 
 # Tools ⛏
 ### [XZIMG Magic Face](https://www.xzimg.com/Products?nav=product-XMF)
@@ -150,6 +182,10 @@ With Qlone, anyone can instantly scan any object, modify it for any purpose and 
 _Via [@dan](https://offerzen-make.slack.com/messages/@U9M5EBTH9)_  
 Simple HTTP and REST client for Unity based on Promises, also supports Callbacks!
 
+### [unity-python](https://github.com/exodrifter/unity-python)
+_Via [@Allan Swanepoel](https://offerzen-make.slack.com/messages/@U9TH04SUB)_  
+UnityPython is a plugin for Unity3D that provides support for running Python code in Unity.
+
 # Tutorials 🤓
 ### [Unity Game State](https://unity3d.com/learn/tutorials/projects/adventure-game-tutorial/game-state)
 _Via [@crypticG00se](https://offerzen-make.slack.com/messages/@U9NR48LT1)_  
@@ -162,6 +198,14 @@ How to play audio clips in response to target detection events, using the Unity 
 ### [Getting started with Rider and Unity](https://blog.jetbrains.com/dotnet/2017/08/30/getting-started-rider-unity/)
 _Via [@rohan.buchner](https://offerzen-make.slack.com/messages/@U9QECBU1Z)_  
 Using Rider, an IDE for C# and .NET from JetBrains.
+
+### [Unity Humble Bundle](https://www.humblebundle.com/games/unity-bundle)
+_Via [@kurvin](https://offerzen-make.slack.com/messages/@U9QECBU1Z)_  
+We've united with Unity Technologies for our newest bundle. Play games made with Unity, including Torment: Tides of Numenera, Shadow Tactics: Blades of the Shogun, and Last Day of June. Then dive into a library of resources to help you develop your own games!
+
+### [Unity and NuGet + JSON.net](https://www.what-could-possibly-go-wrong.com/unity-and-nuget/)
+_Via [@Adrian Brink](https://offerzen-make.slack.com/messages/@UB4D5HH7W)_  
+Are you Unity developer wondering what NuGet is? Read on to learn about NuGet and how to use it with Unity.
 
 # Snippets ✨
 ### Change TextObject via script
@@ -233,4 +277,4 @@ Channels tracked:
 * #team-alpha-victor
 
 Last update:
-04-09-2018 23h30
+16-09-2018 23h00
