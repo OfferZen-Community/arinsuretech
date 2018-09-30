@@ -23,6 +23,9 @@ Time at a Make Day is valuable! Arrive well prepared to get the most out of it.
 - [Video tutorial: Building AR content in Vuforia](https://www.youtube.com/watch?v=9XikHnTiukk&list=PLX2vGYjWbI0Thl0pOCbKWrbbiw7RWiRG7)
 - [Scripting in Unity: From Beginner to Advanced](https://unity3d.com/learn/tutorials/s/scripting) - *Note that C# is the only available language now. JS and Boo are gone!*
 
+### Vuforia Database
+At the Make Day, you will have several images to use as ImageTargets in Vuforia and we created a Vuforia database with all those images pre loaded. You can download it [here](https://raw.githubusercontent.com/OfferZen-Make/arinsuretech/master/MakeDatabase.unitypackage).
+
 ### Contributions
 Take a peak at what other Makers already shared in Slack during this course in the [CONTRIBUTIONS.md](https://github.com/OfferZen-Make/arinsuretech/blob/master/CONTRIBUTIONS.md) file.
 
@@ -31,4 +34,3 @@ Take a peak at what other Makers already shared in Slack during this course in t
 - [Core samples](https://assetstore.unity.com/packages/templates/packs/vuforia-core-samples-99026)
 
 *Know somebody who would enjoy this course? Tell your friends to [apply here](https://make.offerzen.com/course/root-insurance-augmented-reality)*
-
