@@ -24,9 +24,9 @@ Time at a Make Day is valuable! Arrive well prepared to get the most out of it.
 - [Scripting in Unity: From Beginner to Advanced](https://unity3d.com/learn/tutorials/s/scripting) - *Note that C# is the only available language now. JS and Boo are gone!*
 
 ### Useful resources
-- [OfferZen Make Subreddit](https://www.reddit.com/r/offerzenmake) - check it out and upvote any answers you find useful. Feel free to add your own questions and comments!
+- [OfferZen Make Subreddit](https://www.reddit.com/r/offerzenmake): check it out and upvote any answers you find useful. Feel free to add your own questions and comments!
 - [Vuforia database](./MakeDatabase.unitypackage): At the Make Day, you will have several images to use as ImageTargets in Vuforia and we created a Vuforia database with all those images pre loaded.
-- Maker contributions: Take a peak at what other Makers already shared in Slack during this course in the [CONTRIBUTIONS.md](https://github.com/OfferZen-Make/arinsuretech/blob/master/CONTRIBUTIONS.md) file.
+- [Maker contributions](./CONTRIBUTIONS.md): Take a peak at what other Makers already shared in Slack during this course.
 - A [Postman collection](./Root_Postman_Demo.postman_collection.json) with a variable for the Root API key.
 
 *Know somebody who would enjoy this course? Tell your friends to [apply here](https://make.offerzen.com/course/root-insurance-augmented-reality)*
