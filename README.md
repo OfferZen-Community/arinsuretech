@@ -23,15 +23,10 @@ Time at a Make Day is valuable! Arrive well prepared to get the most out of it.
 - [Video tutorial: Building AR content in Vuforia](https://www.youtube.com/watch?v=9XikHnTiukk&list=PLX2vGYjWbI0Thl0pOCbKWrbbiw7RWiRG7)
 - [Scripting in Unity: From Beginner to Advanced](https://unity3d.com/learn/tutorials/s/scripting) - *Note that C# is the only available language now. JS and Boo are gone!*
 
-### Vuforia Database
-At the Make Day, you will have several images to use as ImageTargets in Vuforia and we created a Vuforia database with all those images pre loaded. You can download it [here](https://raw.githubusercontent.com/OfferZen-Make/arinsuretech/master/MakeDatabase.unitypackage).
-
-### Contributions
-Take a peak at what other Makers already shared in Slack during this course in the [CONTRIBUTIONS.md](https://github.com/OfferZen-Make/arinsuretech/blob/master/CONTRIBUTIONS.md) file.
-
-### Useful vuforia resources
-- [Ground plane](https://assetstore.unity.com/packages/templates/packs/vuforia-ground-plane-107216)
-- [Core samples](https://assetstore.unity.com/packages/templates/packs/vuforia-core-samples-99026)
+### Useful resources
+- We have a [Subreddit!](https://www.reddit.com/r/offerzenmake) - check it out and upvote any answers you find useful. Feel free to add your own questions and comments!
+- Vuforia database: At the Make Day, you will have several images to use as ImageTargets in Vuforia and we created a Vuforia database with all those images pre loaded. You can download it [here](https://raw.githubusercontent.com/OfferZen-Make/arinsuretech/master/MakeDatabase.unitypackage).
+- Maker contributions: Take a peak at what other Makers already shared in Slack during this course in the [CONTRIBUTIONS.md](https://github.com/OfferZen-Make/arinsuretech/blob/master/CONTRIBUTIONS.md) file.
 
 ### Postman Collection Demo
 - A postman collection with a collection variable for the Root API key. [Collection](./Root_Postman_Demo.postman_collection.json)
