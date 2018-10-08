@@ -27,6 +27,6 @@ Time at a Make Day is valuable! Arrive well prepared to get the most out of it.
 - We have a [Subreddit!](https://www.reddit.com/r/offerzenmake) - check it out and upvote any answers you find useful. Feel free to add your own questions and comments!
 - Vuforia database: At the Make Day, you will have several images to use as ImageTargets in Vuforia and we created a Vuforia database with all those images pre loaded. You can download it [here](https://raw.githubusercontent.com/OfferZen-Make/arinsuretech/master/MakeDatabase.unitypackage).
 - Maker contributions: Take a peak at what other Makers already shared in Slack during this course in the [CONTRIBUTIONS.md](https://github.com/OfferZen-Make/arinsuretech/blob/master/CONTRIBUTIONS.md) file.
-- A [Postman collection] with a variable for the Root API key. (./Root_Postman_Demo.postman_collection.json)
+- A [Postman collection](./Root_Postman_Demo.postman_collection.json) with a variable for the Root API key.
 
 *Know somebody who would enjoy this course? Tell your friends to [apply here](https://make.offerzen.com/course/root-insurance-augmented-reality)*
