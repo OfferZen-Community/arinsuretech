@@ -3,7 +3,7 @@ Collection of resources from previous attendees :)
 
 - [Projects Created by Makers](#projects-created-by-makers-) 🔥
 - [Assets](#assets-) 🕶
-- [Books](#books-) 📚
+- [Books and Articles](#books-and-articles-) 📚
 - [Documentation](#documentation-) 📄
 - [Ideas](#ideas-) 💡
 - [Questions](#questions-) 🤔
@@ -86,7 +86,7 @@ Cozmo cube scanned for Vuforia.
 _Via [@Johan Heymans](https://offerzen-make.slack.com/messages/@U9PH117N0)_  
 Lots of free 3D models.
 
-# Books 📚
+# Books and Articles 📚
 ### [Getting Started with Unity 2018](https://www.amazon.com/Getting-Started-Unity-2018-development-ebook/dp/B07BP9Y7RB)
 _Via [@jojo](https://offerzen-make.slack.com/messages/@UC088FCUS)_  
 Learn how to use Unity 2018 by creating your very own 3D game while developing your essential skills.
@@ -94,6 +94,10 @@ Learn how to use Unity 2018 by creating your very own 3D game while developing y
 ### [Augmented Reality for Developers](https://www.packtpub.com/web-development/augmented-reality-developers)
 _Via [@Allan Swanepoel](https://offerzen-make.slack.com/messages/@U9TH04SUB)_  
 Build exciting AR applications on mobile and wearable devices with Unity 3D, Vuforia, ARToolKit, Microsoft Mixed Reality HoloLens, Apple ARKit, and Google ARCore.
+
+### [Augmented reality in the insurance industry — Jasoren](https://jasoren.com/how-augmented-reality-impacts-the-insurance-industry-7-use-cases-of-ar-applications/)
+_Via [@Emma Phiri](https://offerzen-make.slack.com/messages/@UA0ELFXJA)_  
+AR technology can bring numerous advantages to insurance companies. It is confirmed by world know insurance companies who deploy AR for their business purposes.
 
 # Documentation 📄
 ### [Unity Scripting Reference](https://unity3d.com/learn/tutorials/s/scripting)
@@ -180,6 +184,10 @@ Introducing Shopify AR. Give your shoppers a truer sense of your products with a
 _Via [@louwhopley](https://offerzen-make.slack.com/messages/@U8DBE4NG4)_  
 Really cool AR application by the weather channel.
 
+### [Pineapple](https://www.pineapple.co.za/)
+_Via [@Jeanrich Stassen](https://offerzen-make.slack.com/messages/@UD5EGV18W)_  
+The first peer-to-peer insurance platform in South Africa. See how your money is used. Withdraw what is left. Connect to protect.
+
 # Questions 🤔
 ### [Check if ARCamera first time detect the marker and "spawn" the 3d object](https://stackoverflow.com/questions/42717103/check-if-arcamera-first-time-detect-the-marker-and-spawn-the-3d-object)
 _Via [@crypticG00se](https://offerzen-make.slack.com/messages/@U9NR48LT1)_  
@@ -210,6 +218,10 @@ UnityPython is a plugin for Unity3D that provides support for running Python cod
 _Via [@Adam Fisher](https://offerzen-make.slack.com/messages/@UCXNC4KJ5)_  
 For those of you who'd rather not risk losing your work ;)
 
+### [Fake Name Generator](https://www.fakenamegenerator.com/gen-random-us-za.php)
+_Via [@William de Witt](https://offerzen-make.slack.com/messages/@UD6A5V3LZ)_  
+For those of us who are not as creative...  here is a random name generator with valid SA IDs.
+
 # Tutorials 🤓
 ### [Unity Game State](https://unity3d.com/learn/tutorials/projects/adventure-game-tutorial/game-state)
 _Via [@crypticG00se](https://offerzen-make.slack.com/messages/@U9NR48LT1)_  
@@ -231,17 +243,21 @@ We've united with Unity Technologies for our newest bundle. Play games made with
 _Via [@Adrian Brink](https://offerzen-make.slack.com/messages/@UB4D5HH7W)_  
 Are you Unity developer wondering what NuGet is? Read on to learn about NuGet and how to use it with Unity.
 
+### [Updating Vuforia Version when using Unity Hub](https://developer.vuforia.com/forum/unity/updating-vuforia-version-when-using-unity-hub)
+_Via [@etai](https://offerzen-make.slack.com/messages/@UD8P65FGB)_  
+For anyone who struggled to get Vuforia installed on their Mac (Unity Hub).
+
 # Snippets ✨
 ### Change TextObject via script
-_By [@wayde](https://offerzen-make.slack.com/messages/@U9K82LR7D)_
+_By [@wayde](https://offerzen-make.slack.com/messages/@U9K82LR7D)_  
 ```
-# Target/Text is the hierarchical object name 
+# Target/Text is the hierarchical object name
 TextMesh textObject = GameObject.Find("Target/Text").GetComponent<TextMesh>();
 textObject.text = "test";
 ```
 
 ### Trigger a script when image is recognised
-_By [@rohan.buchner](https://offerzen-make.slack.com/messages/@U9QECBU1Z)_
+_By [@rohan.buchner](https://offerzen-make.slack.com/messages/@U9QECBU1Z)_  
 ```
 // Create a class that inherits from/extends the DefaultTrackableEventHandler class
 // then override
@@ -249,7 +265,7 @@ protected override void OnTrackingFound()
 {
     // run the base code
     base.OnTrackingFound();
-    
+
     // then your own code
 }
 ```
@@ -301,6 +317,11 @@ Channels tracked:
 * #team-alpha-victor
 * #team-alpha-xray
 * #team-alpha-zulu
+* #team-brin
+* #team-carmack
+* #team-dahl
+* #team-gates
+* #team-jardetzky
 
 Last update:
-29-09-2018 19h00
+09-10-2018 11h00
