@@ -98,7 +98,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"id\": {\n\t\t\"type\": \"id\",\n\t\t\"number\": \"8808125800084\",\n\t\t\"country\": \"ZA\"\n\t},\n\t\"first_name\": \"Erlich\",\n\t\"last_name\": \"Bachman\",\n\t\"email\": \"louw+erlich@root.co.za\"\n}"
+					"raw": "{\n\t\"id\": {\n\t\t\"type\": \"id\",\n\t\t\"number\": \"8808125800084\",\n\t\t\"country\": \"ZA\"\n\t},\n\t\"first_name\": \"Erlich\",\n\t\"last_name\": \"Bachman\",\n\t\"email\": \"erlich@offerzen.co.za\"\n}"
 				},
 				"url": {
 					"raw": "https://sandbox.root.co.za/v1/insurance/policyholders",
@@ -154,7 +154,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"policyholder_id\": \"\",\n\t\"quote_package_id\": \"\",\n\t\"monthly_premium\": 76933\n}"
+					"raw": "{\n\t\"quote_package_id\": \"\",\n\t\"policyholder_id\": \"\",\n\t\"monthly_premium\": 76933\n}"
 				},
 				"url": {
 					"raw": "https://sandbox.root.co.za/v1/insurance/applications",
