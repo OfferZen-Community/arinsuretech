@@ -98,7 +98,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"id\": {\n\t\t\"type\": \"id\",\n\t\t\"number\": \"8808125800084\",\n\t\t\"country\": \"ZA\"\n\t},\n\t\"first_name\": \"Erlich\",\n\t\"last_name\": \"Bachman\",\n\t\"email\": \"erlich@offerzen.co.za\"\n}"
+					"raw": "{\n\t\"id\": {\n\t\t\"type\": \"id\",\n\t\t\"number\": \"8808125800084\",\n\t\t\"country\": \"ZA\"\n\t},\n\t\"first_name\": \"Erlich\",\n\t\"last_name\": \"Bachman\",\n\t\"email\": \"erlich@offerzen.com\"\n}"
 				},
 				"url": {
 					"raw": "https://sandbox.root.co.za/v1/insurance/policyholders",
