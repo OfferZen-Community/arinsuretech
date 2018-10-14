@@ -77,6 +77,9 @@ It displays a model of the "phone" you're wanting to insure along with the month
 _By [@Philip Stubbs](https://offerzen-make.slack.com/messages/@UCXUE6272)_  
 Getting a quote for natural disasters, each card is a different disaster!
 
+### [AR Cannon Explosion](https://github.com/jellymann/arinsuretech-kicker)
+_By [@jellymann](https://offerzen-make.slack.com/messages/@U977ZPZ8D)_  
+
 # Assets 🕶
 ### [Cozmo Cube](https://files.slack.com/files-pri/T8CRG18UC-FC89W3G7P/download/cozmocube.unitypackage)
 _By [@nash](https://offerzen-make.slack.com/messages/@U9LQD9TMK)_  
@@ -85,6 +88,10 @@ Cozmo cube scanned for Vuforia.
 ### [Poly](https://poly.google.com/)
 _Via [@Johan Heymans](https://offerzen-make.slack.com/messages/@U9PH117N0)_  
 Lots of free 3D models.
+
+### [Open Game Art](https://opengameart.org/)
+_Via [@jellymann](https://offerzen-make.slack.com/messages/@U977ZPZ8D)_  
+Good resource for free 3d models and textures.
 
 # Books and Articles 📚
 ### [Getting Started with Unity 2018](https://www.amazon.com/Getting-Started-Unity-2018-development-ebook/dp/B07BP9Y7RB)
@@ -222,6 +229,10 @@ For those of you who'd rather not risk losing your work ;)
 _Via [@William de Witt](https://offerzen-make.slack.com/messages/@UD6A5V3LZ)_  
 For those of us who are not as creative...  here is a random name generator with valid SA IDs.
 
+### [ShadowDrawer](https://github.com/keijiro/ShadowDrawer)
+_Via [@jellymann](https://offerzen-make.slack.com/messages/@U977ZPZ8D)_  
+If you want to cast shadows on the "world", download this custom shader and apply it to an invisible plane.
+
 # Tutorials 🤓
 ### [Unity Game State](https://unity3d.com/learn/tutorials/projects/adventure-game-tutorial/game-state)
 _Via [@crypticG00se](https://offerzen-make.slack.com/messages/@U9NR48LT1)_  
@@ -246,6 +257,10 @@ Are you Unity developer wondering what NuGet is? Read on to learn about NuGet an
 ### [Updating Vuforia Version when using Unity Hub](https://developer.vuforia.com/forum/unity/updating-vuforia-version-when-using-unity-hub)
 _Via [@etai](https://offerzen-make.slack.com/messages/@UD8P65FGB)_  
 For anyone who struggled to get Vuforia installed on their Mac (Unity Hub).
+
+### [Adding a Static Image to a Scene](https://www.reddit.com/r/offerzenmake/comments/9mp8j5/adding_a_static_image/)
+_By [@robin](https://offerzen-make.slack.com/messages/@U98E8NB6J)_  
+I have posted on Reddit quickly about adding a static png / jpg to the scene
 
 # Snippets ✨
 ### Change TextObject via script
@@ -306,6 +321,17 @@ Make your dream car a reality! Place your CSR2 cars in the real world using the 
 _Via [@nash](https://offerzen-make.slack.com/messages/@U9LQD9TMK)_  
 Forged by the great powers of augmented reality and blockchain technologies, Augmentors puts you in control of fantastical creatures. Collect an army of powerful and rare creatures as you battle, train, buy and sell them. You, oh Heroic One, will become the greatest Augmentors player in the augmented reality world.
 
+### [Augmented Reality Magic 1.0](https://www.youtube.com/watch?v=Mk1xjbA-ISE)
+_Via [@William de Witt](https://offerzen-make.slack.com/messages/@UD6A5V3LZ)_  
+Here is the preview version of my augmented reality card trick. 
+
+### [Leap Motion Project North Star Table Tennis Video](https://www.youtube.com/watch?v=DXY0L8L3bB0) & [ProjectNorthStar](https://github.com/leapmotion/ProjectNorthStar)
+_Via [@evertjvv](https://offerzen-make.slack.com/messages/@UD9263FLL)_  
+
+### [Learn Piano with AR](https://twitter.com/danielkuntz0/status/1051218554668937216)
+_Via [@Petrus](https://offerzen-make.slack.com/messages/@UCXK9BB3K)_  
+Been working on something cool - the future of learning piano with AR! Coming to the App Store soon.
+
 # Tracking Status
 Channels tracked:
 * #arinsuretech
@@ -320,8 +346,9 @@ Channels tracked:
 * #team-brin
 * #team-carmack
 * #team-dahl
+* #team-eich
 * #team-gates
 * #team-jardetzky
 
 Last update:
-09-10-2018 11h00
+09-14-2018 21h00
