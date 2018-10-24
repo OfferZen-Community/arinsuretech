@@ -4,10 +4,9 @@
 
 We're going to be learning how to build AR apps and integrate them with the Root Insurance API. It's a fact that people learn best when doing things together, so you'll be working with a small team on the day.
 
-At the end of the day everybody discusses what and how they learned. You should be able to answer these two questions in that discussion:
+At the end of the day everybody discusses what and how they learned. You should be able to answer a simple question in that discussion:
 
-1.  What did you and your team mate/s do and what did you learn?
-2.  How did the Make Day contribute towards your learning, and what can we improve?
+-  What is your biggest takeaway from today?
 
 
 ## Agenda
@@ -23,8 +22,8 @@ At the end of the day everybody discusses what and how they learned. You should 
 | 9h50 - 12h15 | Make, play and learn - session 1 |
 | 12h15 - 12h30 | Stand-up |
 | 12h30 - 13h00  | Lunch |
-| 13h00 - 16h30 | Make, play and learn - session 2 |
-| 16h30 - 18h00 | Drinks & group discussion about learning|
+| 13h00 - 17h00 | Make, play and learn - session 2 |
+| 17h00 - 18h00 | Drinks & group discussion about learning|
 
 
 

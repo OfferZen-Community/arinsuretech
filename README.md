@@ -3,7 +3,7 @@
 ## Hello!
 We're excited to have you join this course, where you'll be building AR apps on [Root insurance](http://root.co.za/insurance/) along with a group of other keen developers!
 
-The aim of Make Days is to explore and learn new things, and you don't need to achieve specific goals. The structure caters for varying levels of experience and different people will learn different things by playing with the same tools.
+The aim of Make Days is to explore and learn new thing. You don't need to achieve specific goals. The structure caters for varying levels of experience and different Makers will learn different things by playing with the same tools.
 
 ## Preparing for the Make Day
 Makers that arrive well prepared get the most out of their experience. Before you attend your Make Day, there are a couple of activities to complete.
