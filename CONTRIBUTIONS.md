@@ -89,11 +89,16 @@ Cozmo cube scanned for Vuforia.
 _Via [@Johan Heymans](https://offerzen-make.slack.com/messages/@U9PH117N0)_  
 Lots of free 3D models.
 
+### [Pokemon 3D Assets](https://github.com/PoGo-Devs/PoGo-3D-Assets)
+_Via [@Divashen](https://offerzen-make.slack.com/messages/@UB70Y16PJ)_  
+Lots of free 1st gen Pokemon 3D models.
+
 ### [Open Game Art](https://opengameart.org/)
 _Via [@jellymann](https://offerzen-make.slack.com/messages/@U977ZPZ8D)_  
 Good resource for free 3d models and textures.
 
 # Books and Articles 📚
+
 ### [Getting Started with Unity 2018](https://www.amazon.com/Getting-Started-Unity-2018-development-ebook/dp/B07BP9Y7RB)
 _Via [@jojo](https://offerzen-make.slack.com/messages/@UC088FCUS)_  
 Learn how to use Unity 2018 by creating your very own 3D game while developing your essential skills.
@@ -133,7 +138,7 @@ Spawns a wall and a ball by scanning an ImageTarget. The ball is thrown agains t
 
 ### [Sum Game](https://photos.google.com/share/AF1QipPOUOPhVQzaTcdmpV82OQU9FSTY4nwwBe_r1Z4lRGSDDZxNNrV5M3RwqeQ360o1uQ/photo/AF1QipM4ipZFouUKUnncmGtbgVCuiBbr8XkyRbgbVAt7?key=Zkg0X3BWMWw2LWlZREJIVmhDOUxUWER4RkYxM0dR)
 _By [@Matthew Mason](https://offerzen-make.slack.com/messages/@U92BSRZGT) and [@Gustav Bertram](https://offerzen-make.slack.com/messages/@UCEND7G0P)_  
-The game reads three different cards, each one with a different price tag. When you click the "Create Quota" button, it gets a Root Insurance Quota with the sum of all cards on the screen. 
+The game reads three different cards, each one with a different price tag. When you click the "Create Quota" button, it gets a Root Insurance Quota with the sum of all cards on the screen.
 
 ### [FAST Insurance](https://photos.google.com/share/AF1QipNmSWFsGrhR7HUkSrBaxBcCi5ubInOLbxdvE4snYSV8j9DhmbjGFWDOwOUFPiFnDg/photo/AF1QipNoGQPDrLv8UR0BR0zWZQsRcvwFTvz2TCVNp76c?key=cHFNTHRtVUNZUzZzaWRBR0dPbVRNUER5ajlrNXZR)
 _By [@Eduan van Rooyen](https://offerzen-make.slack.com/messages/@UCBCS15NW)_  
@@ -179,11 +184,11 @@ Insure a card using Root API and dinamically adds text to a TextObject with AR.
 _By [@Melissa Kahn](https://offerzen-make.slack.com/messages/@UC6N4KU5N) and [@whits](https://offerzen-make.slack.com/messages/@U9WBFSVD0)_  
 Using a VirtualButton, shoots a fly into a banana, playing an awesome custom made sound.
 
-### [INKHUNTER](http://inkhunter.tattoo/) 
+### [INKHUNTER](http://inkhunter.tattoo/)
 _Via [@robin](https://offerzen-make.slack.com/messages/@U98E8NB6J)_  
 Pretty cool use of AR to have a look what a tattoo could look like before making it permanent.
 
-### [Shopify AR](https://www.shopify.co.za/ar) 
+### [Shopify AR](https://www.shopify.co.za/ar)
 _Via [@robin](https://offerzen-make.slack.com/messages/@U98E8NB6J)_  
 Introducing Shopify AR. Give your shoppers a truer sense of your products with augmented reality (AR). Let your customers interact with products like never before for a better buying experience. Increase buyer confidence by bringing your products to life.
 
