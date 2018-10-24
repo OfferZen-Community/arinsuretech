@@ -3,7 +3,7 @@
 ## Hello!
 We're excited to have you join this course, where you'll be building AR apps on [Root insurance](http://root.co.za/insurance/) along with a group of other keen developers!
 
-The aim of Make Days is to explore and learn new things, and you don't need to achieve specific goals. The structure caters for varying levels of experience and different people will learn different things by playing with the same tools.
+The aim of Make Days is to explore and learn new thing. You don't need to achieve specific goals. The structure caters for varying levels of experience and different Makers will learn different things by playing with the same tools.
 
 ## Preparing for the Make Day
 Makers that arrive well prepared get the most out of their experience. Before you attend your Make Day, there are a couple of activities to complete.
@@ -27,6 +27,7 @@ Time at a Make Day is valuable! Arrive well prepared to get the most out of it.
 - [OfferZen Make Subreddit](https://www.reddit.com/r/offerzenmake): check it out and upvote any answers you find useful. Feel free to add your own questions and comments!
 - [Vuforia database](./MakeDatabase.unitypackage): At the Make Day, you will have several images to use as ImageTargets in Vuforia and we created a Vuforia database with all those images pre loaded.
 - [Maker contributions](./CONTRIBUTIONS.md): Take a peak at what other Makers already shared in Slack during this course.
-- A [Postman collection](./Root_Postman_Demo.postman_collection.json) with a variable for the Root API key.
+- [A Postman collection](./Root_Postman_Demo.postman_collection.json) with a variable for the Root API key.
+- [Root Insurance C# Scripts](https://github.com/jonatasbaldin/root-insurance-unity) for creating Quotes, PolicyHolders, Policies and Applications.
 
 *Know somebody who would enjoy this course? Tell your friends to [apply here](https://make.offerzen.com/course/root-insurance-augmented-reality)*
