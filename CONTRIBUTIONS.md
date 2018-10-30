@@ -80,6 +80,9 @@ Getting a quote for natural disasters, each card is a different disaster!
 ### [AR Cannon Explosion](https://github.com/jellymann/arinsuretech-kicker)
 _By [@jellymann](https://offerzen-make.slack.com/messages/@U977ZPZ8D)_  
 
+### [ARInsure Raycast](https://github.com/brichardssa/arinsure-raycast-implementation)
+_By [@Bryan Richards](https://offerzen-make.slack.com/messages/@UD95H2553)_  
+
 # Assets 🕶
 ### [Cozmo Cube](https://files.slack.com/files-pri/T8CRG18UC-FC89W3G7P/download/cozmocube.unitypackage)
 _By [@nash](https://offerzen-make.slack.com/messages/@U9LQD9TMK)_  
@@ -200,6 +203,10 @@ Really cool AR application by the weather channel.
 _Via [@Jeanrich Stassen](https://offerzen-make.slack.com/messages/@UD5EGV18W)_  
 The first peer-to-peer insurance platform in South Africa. See how your money is used. Withdraw what is left. Connect to protect.
 
+### [LUMKANI](https://lumkani.com/)
+_Via [@Ben](https://offerzen-make.slack.com/messages/@U8D3KJU93)_  
+Interesting business with a social good aspect who’s underlying model is insurance.
+
 # Questions 🤔
 ### [Check if ARCamera first time detect the marker and "spawn" the 3d object](https://stackoverflow.com/questions/42717103/check-if-arcamera-first-time-detect-the-marker-and-spawn-the-3d-object)
 _Via [@crypticG00se](https://offerzen-make.slack.com/messages/@U9NR48LT1)_  
@@ -290,6 +297,16 @@ protected override void OnTrackingFound()
 }
 ```
 
+### Search for all Children from this ImageTarget with type VirtualButtonBehaviour
+_By [@Bruce Hart](https://offerzen-make.slack.com/messages/@UDF6BU4Q7)_  
+```
+VirtualButtonBehaviour[] vbs = GetComponentsInChildren<VirtualButtonBehaviour>();
+for (int i = 0; i < vbs.Length; ++i) {
+   // Register with the virtual buttons TrackableBehaviour
+   vbs[i].RegisterEventHandler(this);
+}
+```
+
 # Videos 🎬
 ### [Creating AR Content with Vuforia](https://www.youtube.com/watch?v=9XikHnTiukk&list=PLX2vGYjWbI0Thl0pOCbKWrbbiw7RWiRG7)
 _Via [@dan](https://offerzen-make.slack.com/messages/@U9M5EBTH9)_  
@@ -352,8 +369,14 @@ Channels tracked:
 * #team-carmack
 * #team-dahl
 * #team-eich
+* #team-feldman
 * #team-gates
+* #team-hamilton
+* #team-icaza
 * #team-jardetzky
+* #team-kemeny
+* #team-lovelace
+* #team-matsumoto
 
 Last update:
-09-14-2018 21h00
+10-26-2018 14h00
